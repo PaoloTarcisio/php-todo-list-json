@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Portare fuori la spazzatura",
+        "status": false
+    },
+    {
+        "task": "Fare la spesa",
+        "status": false
+    },
+    {
+        "task": "Pagare le bollette",
+        "status": false
+    },
+    {
+        "task": "Iscriversi in palestra",
+        "status": false
+    }
+]
