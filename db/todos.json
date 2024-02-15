@@ -14,5 +14,9 @@
     {
         "task": "Iscriversi in palestra",
         "status": false
+    },
+    {
+        "task": "Andare in lavanderia",
+        "status": false
     }
 ]
